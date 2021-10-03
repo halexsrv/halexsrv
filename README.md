@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @halexsrv
+- 👋 Hi, I’m Alex Vitorino
 - 👀 I’m interested in software developer topics
 - 🌱 I’m currently learning about microservices
 - 💞️ I’m looking to collaborate on open source projects that help people build a better society
